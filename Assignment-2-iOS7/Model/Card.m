@@ -22,7 +22,7 @@
     return score;
 }
 
--(NSString *)desc
+-(NSString *)description
 {
     return self.contents;
 }
